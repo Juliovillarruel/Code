@@ -5,7 +5,7 @@ int main(void)
 {
    char Kid1[12];
    // Kid1 can hold an 11-character name
-   // Kid2 will be 7 characters (Maddie plus null 0)
+   // Kid2 will be 7 characters (Maddie plus null 0) 
    char Kid2[] = "Maddie";
    // Kid3 is also 7 characters, but specifically defined
    char Kid3[7] = "Andrew";
